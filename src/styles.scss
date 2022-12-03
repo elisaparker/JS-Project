@@ -9,8 +9,9 @@ body {
 }
 
 .logo{
-    text-indent: -9999999990px;
     background-image: url('logo.jpg');
+    background-repeat: no-repeat;
     width: 355px;
     height: 52px;
+    background-size: 355px 52px;
 }    
